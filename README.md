@@ -8,7 +8,6 @@ Final Project of the Risk Theory course
 
 
 #Simulation of S's and Fs
-
 simulation <- function(m){
   # m = Number of simulations or repetitions
   # N = Numeric object which represents the simulated value Ni
@@ -23,9 +22,9 @@ simulation <- function(m){
        Y[j] <- rlnorm(1,0,1)
        S[i] <- sum(Y)
      }
-     
-
    }
+   else 
+    S[i] <- 0
   }
   return(S)
 }
