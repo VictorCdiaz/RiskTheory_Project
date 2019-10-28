@@ -2,7 +2,7 @@
 Final Project of the Risk Theory course
 
 #Cab Díaz Víctor Manuel
-#Martinez Rodriguez Erick Pechuga
+#Martinez Rodriguez Erick 
 
 #MIDTERM EXAM NUM.3
 
